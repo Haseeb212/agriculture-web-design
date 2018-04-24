@@ -1,2 +1,2 @@
-# web-design-template
-First web design template
+# Agriculture web design
+This is design of an agriculture company website,
